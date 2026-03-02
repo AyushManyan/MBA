@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1",
+    "title": "Annual Meetup",
+    "description": "A gathering of all members to discuss yearly progress.",
+    "date": "2026-03-10",
+    "time": "15:00"
+  },
+  {
+    "_id": "2",
+    "title": "Workshop: Leadership Skills",
+    "description": "Interactive workshop on leadership and management.",
+    "date": "2026-03-15",
+    "time": "10:00"
+  },
+  {
+    "_id": "3",
+    "title": "Networking Night",
+    "description": "An evening to connect with industry professionals.",
+    "date": "2026-03-20",
+    "time": "18:30"
+  }
+]

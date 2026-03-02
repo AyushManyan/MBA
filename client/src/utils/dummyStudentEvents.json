@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1",
+    "title": "Tech Symposium 2026",
+    "description": "A showcase of student projects and tech talks.",
+    "date": "2026-03-12",
+    "time": "10:00 AM"
+  },
+  {
+    "_id": "2",
+    "title": "Sports Meet",
+    "description": "Annual inter-college sports competition.",
+    "date": "2026-03-18",
+    "time": "09:00 AM"
+  },
+  {
+    "_id": "3",
+    "title": "Cultural Fest",
+    "description": "Music, dance, and drama performances by students.",
+    "date": "2026-03-25",
+    "time": "05:00 PM"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "day": "Monday",
+    "classes": [
+      { "subject": "Mathematics", "time": "09:00 - 10:00" },
+      { "subject": "Physics", "time": "10:15 - 11:15" },
+      { "subject": "English", "time": "11:30 - 12:30" }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "classes": [
+      { "subject": "Chemistry", "time": "09:00 - 10:00" },
+      { "subject": "Biology", "time": "10:15 - 11:15" },
+      { "subject": "History", "time": "11:30 - 12:30" }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "classes": [
+      { "subject": "Mathematics", "time": "09:00 - 10:00" },
+      { "subject": "Computer Science", "time": "10:15 - 11:15" },
+      { "subject": "Physical Education", "time": "11:30 - 12:30" }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "classes": [
+      { "subject": "English", "time": "09:00 - 10:00" },
+      { "subject": "Physics", "time": "10:15 - 11:15" },
+      { "subject": "Chemistry", "time": "11:30 - 12:30" }
+    ]
+  },
+  {
+    "day": "Friday",
+    "classes": [
+      { "subject": "Biology", "time": "09:00 - 10:00" },
+      { "subject": "Mathematics", "time": "10:15 - 11:15" },
+      { "subject": "History", "time": "11:30 - 12:30" }
+    ]
+  }
+]
